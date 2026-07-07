@@ -1,3 +1,5 @@
+// Question-1: Pyramid pattern based on user input for number of rows
+
 import java.util.Scanner;
 public class pattern1 {
 
